@@ -21,3 +21,5 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 - **IDE**: Eclipse, IntelliJ IDEA o Visual Studio Code con extensiones para Java.
 - **Base de Datos**: MySQL.
 - **Bibliotecas Adicionales**: Conector JDBC para MySQL (`mysql-connector-java`).
+
+[Video explicando el código](https://youtu.be/UCT8A_OxzB4)
