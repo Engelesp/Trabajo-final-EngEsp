@@ -1,0 +1,12 @@
+# Librerías externas
+lib/
+*.jar
+
+# Archivos de Eclipse o IntelliJ IDEA
+.classpath
+.project
+.settings/
+
+# Archivos generados
+/bin/
+/out/
